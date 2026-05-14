@@ -1,6 +1,8 @@
 # Sign Language ESL Dataset: Letters & Numbers
 ## Overview
 This dataset is designed for Sign Language Translation and Alphabet Recognition tasks. It contains high-quality images representing the English Sign Language (ESL) characters (A-Z) and digits (0-9). The dataset is optimized for educational applications and accessibility tools for the deaf and hard-of-hearing community.
+### Dataset Preview
+|  |  |  |
 ## Dataset Structure
 The data is organized into folders, where each folder represents a specific label (Character or Number).
 • Total Classes: 37 (A-Z, 0-9, and a special SPACE class).
